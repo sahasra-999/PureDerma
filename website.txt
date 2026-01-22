@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PureDerma | Skin Care Simplified</title>
+
+    <!-- Meta tags for Google & SEO -->
+    <meta name="description" content="PureDerma – Simple, science-backed skincare for healthy skin.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Basic styling -->
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #ffffff;
+            padding: 20px;
+            text-align: center;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        header h1 {
+            margin: 0;
+            color: #2c7a7b;
+        }
+
+        nav {
+            margin-top: 10px;
+        }
+
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #555;
+            font-weight: bold;
+        }
+
+        section {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        section h2 {
+            color: #2c7a7b;
+        }
+
+        footer {
+            background-color: #ffffff;
+            text-align: center;
+            padding: 15px;
+            border-top: 1px solid #e0e0e0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>PureDerma</h1>
+        <p>Pure care. Clear skin.</p>
+
+        <nav>
+            <a href="#about">About</a>
+            <a href="#products">Products</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <!-- ABOUT SECTION -->
+    <section id="about">
+        <h2>About PureDerma</h2>
+        <p>
+            PureDerma is focused on simple, effective, and science-based skincare.
+            Our goal is to provide gentle solutions that support healthy, clear skin
+            without unnecessary ingredients.
+        </p>
+    </section>
+
+    <!-- PRODUCTS SECTION -->
+    <section id="products">
+        <h2>Our Approach</h2>
+        <p>
+            We believe in minimal formulas, dermatologist-inspired care, and
+            transparency. Every product is designed to respect your skin’s natural balance.
+        </p>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>
+            Email: <strong>contact@purederma.co</strong><br>
+            Website: <strong>www.purederma.co</strong>
+        </p>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        © 2026 PureDerma. All rights reserved.
+    </footer>
+
+</body>
+</html>
